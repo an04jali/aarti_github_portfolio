@@ -2,7 +2,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Aarti+Singh;Generative AI+Engineer+%7C+Agentic+AI+Specialist;LLM+%7C+RAG+%7C+LangGraph+Expert;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Aarti+Singh;Computer+Science+Student;DSA+%7C+Full+Stack+Developer;Generative+AI+%7C+LLMs+%7C+RAG;Python+%7C+React+%7C+Node.js;Docker+%7C+AWS+%7C+CI/CD" />
+
+</div>
 
 <h3>🚀 Full Stack Developer | LLM & Agentic AI Architect | Software Developer</h3>
 
