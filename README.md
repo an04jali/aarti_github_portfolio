@@ -2,13 +2,13 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Ayush+Singh;AI+Engineer+%7C+Agentic+AI+Specialist;LLM+%7C+RAG+%7C+LangGraph+Expert;Built+100%2B+AI+Agents;3×+Hackathon+Winner" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Aarti+Singh;Full Stack Developer+%7C+Agentic;LLM+%7C+RAG+%7C+LangGraph+Expert;Built+100%2B+AI+Agents" />
 
-<h3>🚀 AI Engineer | LLM & Agentic AI Architect | Software Developer</h3>
+<h3>🚀 Full Stack Developer | LLM & Agentic AI Architect | Software Developer</h3>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=ayusingh-54&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/ayusingh-54?style=for-the-badge&color=blue"/>
+  <img src="https://img.shields.io/github/followers/an04jali?style=for-the-badge&color=blue"/>
   <img src="https://img.shields.io/github/stars/ayusingh-54?style=for-the-badge&color=yellow"/>
 </p>
 
@@ -19,55 +19,35 @@
 ## 👨‍💻 About Me
 
 - 🧠 AI Engineer specializing in **Agentic AI Systems**
-- 🤖 Built **100+ AI Agents** (LangChain, LangGraph, AutoGen)
-- 🏢 AI Engineer Intern @ **U2xAI (US - Remote)**
-- 💻 Software Developer @ **HapScale Pvt Ltd**
-- 🏆 **3× Hackathon Winner**
-- 🚀 Strong in **RAG, ReAct, MCP, FastAPI Deployment, MLOps**
+- 🚀 Strong in **RAG, , MCP, FastAPI Deployment**
 
----
-
-## 💼 Experience
-
-### 🧠 AI Engineer Intern — U2xAI *(US - Remote)*
-
-- Built AI-driven **Supply Chain Intelligence Platform**
-- Designed **BigQuery-based analytics pipelines**
-- Developed **MCP-based tool interfaces** for LLM reasoning
-- Enabled structured AI explainability & decision systems
-
----
-
-### 💻 Software Developer — HapScale Pvt Ltd
-
-- Improved API performance by **25%**
-- Automated security workflows (**99.9% efficiency boost**)
-- Built **Happiness Analytics Tool** (tested on 3000+ users)
-- Increased user engagement by **30%**
 
 ---
 
 ## 🚀 Featured Projects
+⚡ AI-Powered DSA Instructor Chatbot(https://github.com/an04jali/chatbot-genai)
 
-### 🔥 [100 Days – 100 AI Agents](https://github.com/ayusingh-54)
+  -LLM-based learning assistant for Data Structures & Algorithms
 
-> *Building 100 production-ready AI agents in 100 days*
-
-- Built 100+ production-ready AI agents
-- Developed RAG + Multi-agent systems
-- Integrated Instagram, Google Maps, Apify APIs
-- Used **Pinecone, FAISS, ChromaDB**
-- Built interactive **Streamlit dashboards**
+  -Step-by-step DSA explanations + quiz-based learning
+  -Reduced irrelevant responses to <0.1% using prompt guardrails
+  -Achieved sub-2s latency with Groq API integration
+  -Stable across 200+ test queries with secure API handling
+  
+  -Tech: Python, Streamlit, Groq API, LLMs
 
 ---
 
-### ⚡ [CodeForge-AI](https://github.com/ayusingh-54)
+⚡ Multi-Document RAG AI Assistant
 
-> *Autonomous coding agent using ReAct*
+RAG system for querying multiple PDFs with citation support
 
-- Reduced dev task time: **30 min → 30 sec**
-- Context-aware memory + tool orchestration
-- Secure guardrails for safe execution
+Built end-to-end RAG pipeline (ingestion → chunking → embeddings → retrieval)
+Implemented semantic search using Pinecone vector database
+Reduced hallucinations via context-restricted LLM responses
+Provided source-backed answers for improved reliability
+
+Tech: Node.js, Express.js, LangChain, Groq API, Pinecone, HuggingFace
 
 ---
 
