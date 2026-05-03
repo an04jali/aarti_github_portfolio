@@ -18,8 +18,9 @@
 
 ## 👨‍💻 About Me
 
-- 🧠 AI Engineer specializing in **Agentic AI Systems**
-- 🚀 Strong in **RAG, , MCP, FastAPI Deployment**
+- 🧠 Specializing in **Agentic AI Systems**
+- 🚀 Strong in **RAG, FastAPI Deployment**
+-  Fullstack
 
 
 ---
@@ -53,7 +54,6 @@ Tech: Node.js, Express.js, LangChain, Groq API, Pinecone, HuggingFace
 
 ## 💻 Programming Languages
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -66,7 +66,7 @@ Tech: Node.js, Express.js, LangChain, Groq API, Pinecone, HuggingFace
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,react,nextjs,nodejs,mongodb,postgres,redis,docker,kubernetes,aws" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,react,nextjs,nodejs,mongodb,docker,aws" />
 
 </div>
 
