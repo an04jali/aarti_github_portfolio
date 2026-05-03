@@ -38,7 +38,7 @@
 
 ---
 
-⚡ Multi-Document RAG AI Assistant
+⚡ Multi-Document RAG AI Assistant(https://github.com/an04jali/GenAI-RAG-Agent)
 
 RAG system for querying multiple PDFs with citation support
 
@@ -51,41 +51,14 @@ Tech: Node.js, Express.js, LangChain, Groq API, Pinecone, HuggingFace
 
 ---
 
-## 🏆 GitHub Trophy Board
+## 💻 Programming Languages
 
-<div align="center">
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ayusingh-54&theme=onedark&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ayusingh-54&show_icons=true&theme=algolia&hide_border=true&count_private=true" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayusingh-54&layout=compact&theme=algolia&hide_border=true" height="180"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayusingh-54&theme=algolia&hide_border=true" height="180"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayusingh-54&theme=react-dark&hide_border=true"/>
-
-</div>
 
 ---
 
@@ -99,25 +72,16 @@ Tech: Node.js, Express.js, LangChain, Groq API, Pinecone, HuggingFace
 
 ---
 
-## 🧠 AI & ML Expertise
+## 🧠 AI Expertise
 
 | Domain | Tools & Frameworks |
 |---|---|
 | **LLMs & NLP** | OpenAI, Gemini, HuggingFace, LangChain |
-| **Agentic AI** | LangGraph, AutoGen, CrewAI, ReAct |
-| **RAG Systems** | Pinecone, FAISS, ChromaDB, Weaviate |
+| **Agentic AI** | LangGraph, AutoGen |
+| **RAG Systems** | Pinecone, FAISS |
 | **ML/DL** | PyTorch, TensorFlow, Scikit-learn |
 | **Deployment** | FastAPI, Docker, Kubernetes, AWS |
-| **Data & Pipelines** | BigQuery, MLOps, Model Optimization |
 
----
-
-## 🏆 Achievements
-
-- 🥇 **Rise To Top Winner** – District Level
-- 🥈 **SIH Internal Winner** – Top 2 / 160+ teams
-- 🏅 **Techfest IIT Bombay Finalist** – Top 0.5%
-- 🤖 Built **100+ AI Agents** in 100 Days
 
 ---
 
@@ -125,9 +89,9 @@ Tech: Node.js, Express.js, LangChain, Groq API, Pinecone, HuggingFace
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_ID)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayusingh-54)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayusingh693@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[YOUR_LINKEDIN_ID](https://www.linkedin.com/in/aarti-singh-355b7b1a3/))
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/an04jali)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aarti.singhh1518@gmail.com)
 
 </div>
 
@@ -135,6 +99,8 @@ Tech: Node.js, Express.js, LangChain, Groq API, Pinecone, HuggingFace
 
 <div align="center">
 
-⭐ **If you're into AI, LLMs, Agentic Systems & Automation — Let's Connect!**
+⭐ **If you're into LLMs, Agentic Systems & Automation — Let's Connect!**
+> 🔍 Thanks for visiting my profile! Feel free to explore my repositories and connect with me.  
+> Always open to collaborations and learning opportunities!
 
 </div>
