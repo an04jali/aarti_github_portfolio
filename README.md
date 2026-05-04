@@ -8,11 +8,7 @@
 
 <h3>🚀 Full Stack Developer | LLM & Agentic AI Architect | Software Developer</h3>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=ayusingh-54&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/an04jali?style=for-the-badge&color=blue"/>
-  <img src="https://img.shields.io/github/stars/ayusingh-54?style=for-the-badge&color=yellow"/>
-</p>
+
 
 </div>
 
